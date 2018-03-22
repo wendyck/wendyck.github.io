@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/wck
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wendyk.org
+  * I am wck (https://keybase.io/wck) on keybase.
+  * I have a public key with fingerprint 18D3 F3D5 F8AF CA51 80BE  FC41 4E87 A86A 2885 48BD
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010100e48983d9d41535350ef5150faa46798069aecf84ce322dd2535be35d5bc5430a",
+      "fingerprint": "18d3f3d5f8afca5180befc414e87a86a288548bd",
+      "host": "keybase.io",
+      "key_id": "4e87a86a288548bd",
+      "kid": "010100e48983d9d41535350ef5150faa46798069aecf84ce322dd2535be35d5bc5430a",
+      "uid": "1998dd15b7fc1d09a5f71c34c4930919",
+      "username": "wck"
+    },
+    "merkle_root": {
+      "ctime": 1521680961,
+      "hash_meta": "d8fcca64d8062794ec3cda5c5ef4716400683843165a5322cc81c2c6c08bc443",
+      "seqno": 2269998
+    },
+    "revoke": {
+      "sig_ids": [
+        "0df14a641da641c2691b8488cd872c4243b4aff0fa5e1d480de1b2e6437737c90f"
+      ]
+    },
+    "service": {
+      "hostname": "wendyk.org",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1521680971,
+  "expire_in": 157680000,
+  "prev": "3aec0b587f0e14cdd9723809d97dfa67a5b5166bbea103d934a0c23e3ada1056",
+  "seqno": 51,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMK0AnicrVNdaB1FGL03f60RMfQPMVbqUqVgbpnZmdmdvUUQa4XGB4O1xjbaZf72
+3uUmd6+7e2+ThigEtEnxoeKLRSp9sZAItlpb28RKU+wPBkkfWo0o2AeLhtJasaio
+iN9GiyA+ugM77LfnnO/MmZmP72jOtefva/QUDl+Zns/Pno7que1Hmh4ftmSkh6zi
+sFUxi5Pp1yZJ/UqoraKFMAxkKPc40Z6mmBEYyAQMMxQIQR3X48jxhFEBp8oQ29ba
+Bog0hGkmFaMECavLCsJqycS1OKymIIu5JgHRLOAiUIJhjqQJFMXUcFdwR9icM8ql
+BmI5SjIGmJMiMevDCGrw4S/a+w/8/+y7viiHPY9rjZl0A4U18gQLXKwIVdQjyMNe
+BkxMXBUDBtA7VcUa6bIGTFzpN34cRWmWq0rD7C9mNnY48hwMaxNJ2R8wqQCS5oFS
+wqEabNmuR40iSgummAmoix2KkMMJpwQ7TDCwqxTHylaOQlwqSglYSMzz1cgq2rbj
+gV9wEJtGVDFZ8yQsQWKJVeyzkA4whUZYZy8FYCw55Vxp7tqK2pRIKoIAUmIGa8qR
+NljaxqHEdYmrPBRYz41kzeJGqBbFsy26tXRT1UOV9VFcAj+1OEojFfVDvZymtaSY
+pZIO1f4CSv9vCV+GVQ3HAxgNEydhVIWUAPmvwFwIzAzWwtj4YYZgLlThyfqYBkgS
+2EwkGXcDZDBVWnuuTYAIsw6E4womGXYcKY3ACE4FoQIpmxgiNBSY80+CDFqlogSa
+kFtVpPXYWCOnTz3bksu359pam7J7k2u/rePWbVq1b8mvzagz7h0+1sX3zH/Q+3Qh
+Nz7XuWPFe6s3Hs5fv/zlC1/9NrG55crX31nbRq/uvvlZ7ecvbrLW7ruvO9Ov7G79
+6eTeBbp2LT4mpvZ1T22YvPjuk9cWTh1v3r9rz6v6ngcvbTmy/cITjek3u+v+GfLi
+Q8uqU8s29s2evHfwwvHVR/uWz/S8tKsQTMxvy421HThR2frjyx+2LWx+o35owy9j
+zZduH10+uPfqjXyH+Lxz3dnfO8Y+eeygeuaBTeVzTuWdt2qzS+d+WFkqLR1s8eX5
+yaO968orN3376Gsz/p1y9Ju7DpQvThZe/2jN1sKN8Yeb/rh2+czQkva3n+p5f/zg
+2S3fr3qksfPTiftPLKyZm9n/J6O8ehU=
+=ll5X
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wck
+
+==================================================================
